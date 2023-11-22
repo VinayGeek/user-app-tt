@@ -1,2 +1,1 @@
-pass=trdANmcilbuJroGc
-mongodb+srv://vinaykumar:trdANmcilbuJroGc@abc.ppurdmy.mongodb.net/test
+
